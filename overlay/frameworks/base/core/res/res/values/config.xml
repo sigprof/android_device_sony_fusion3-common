@@ -116,7 +116,7 @@
     <integer name="config_safe_media_volume_index">7</integer>
 
     <!-- Whether device supports double tap to wake -->
-    <bool name="config_supportDoubleTapWake">true</bool>
+    <bool name="config_supportDoubleTapWake">false</bool>
 
     <!-- Older rotation sensors are not setting event.timestamp correctly. Setting to
           true will use SystemClock.elapsedRealtimeNanos() to set timestamp. -->
